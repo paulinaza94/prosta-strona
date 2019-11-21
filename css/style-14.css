@@ -1,0 +1,33 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.styl1 {
+    display: table-cell;    
+    background-color: pink;
+    width: 25vw;
+    height: 25vw;
+}
+
+.styl2 {
+    display: table-cell;
+    background-color: plum;
+    width: 25vw;
+    height: 25vw;
+}
+
+.styl3 {
+    display: table-cell;
+    background-color: mediumorchid;
+    width: 25vw;
+    height: 25vw;
+}
+
+.styl4 {
+    display: table-cell;
+    background-color: mediumvioletred;
+    width: 25vw;
+    height: 25vw;
+    }
